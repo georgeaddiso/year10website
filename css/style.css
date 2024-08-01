@@ -3,6 +3,13 @@ html{
   font-family: Arial, Helvetica, sans-serif;
   margin: 0rem 2rem;
   background-color: #ffffff;
+  background-image: url('../images/animation.gif');
+}
+
+body{
+  background-size: cover;
+  background-position: center;
+  background-color: #ffffff;
 }
 
 /* Banner image*/
@@ -60,7 +67,7 @@ main{
 
 /* H1 uses a google font. Check out https://www.w3schools.com/howto/howto_google_fonts.asp to change - also see line 9 in your html page*/
 h1 {
-  color: darkblue;
+  color: #d10000;
   font-family: 'Caesar Dressing';
   font-size: 60px;
   text-align: center;
